@@ -1,0 +1,27 @@
+# MojoDocs Proprietary License
+Version 1.0, February 2026
+
+Copyright (c) 2026 MojoDocs (Sachin Sharma). All Rights Reserved.
+
+## 1. Proprietary Nature
+This software and its documentation are the proprietary property of MojoDocs. This repository is provided for community engagement, visibility, and architectural review only. 
+
+## 2. Restrictions
+UNAUTHORIZED COPYING, MODIFICATION, REVERSE ENGINEERING, SUB-LICENSING, OR DISTRIBUTION OF THIS SOFTWARE, OR ANY PORTION THEREOF, IS STRICTLY PROHIBITED.
+
+By accessing this repository, you agree:
+- You will NOT attempt to decompile or reverse engineer any binary artifacts or obfuscated code.
+- You will NOT use the UI designs or architectural patterns for competing products.
+- You will NOT scrape or automate access to the MojoDocs platform through unauthorized means.
+
+## 3. Permitted Use
+You are permitted to:
+- Star and follow this repository for updates.
+- Open issues for feature requests or bug reports related to the MojoDocs platform.
+- Review the public architectural interfaces for educational purposes.
+
+## 4. Governing Law
+This license shall be governed by the laws of India. Any disputes shall be subject to the exclusive jurisdiction of the courts in India.
+
+---
+**Official Platform:** [mojodocs.in](https://mojodocs.in)
