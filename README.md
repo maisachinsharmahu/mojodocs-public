@@ -1,15 +1,15 @@
-# <p align="center">🚀 MOJODOCS: THE PRIVACY-FIRST TOOL ECOSYSTEM</p>
+# <p align="center">🚀 MOJO DOCS: THE PRIVACY-FIRST TOOL ECOSYSTEM</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maisachinsharmahu/mojodocs-public/main/docs/assets/banner.png" alt="MojoDocs Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/maisachinsharmahu/mojodocs-public/main/docs/assets/banner.png" alt="Mojo Docs Banner" width="100%">
 </p>
 
 <p align="center">
-  <b>The Future of Local-First Engineering. No Servers. No Data Leaks. 100% On-Device.</b>
+  <b>Mojo Docs (mojodocs.in) — The Future of Local-First Engineering. No Servers. No Data Leaks. 100% On-Device.</b>
 </p>
 
 <p align="center">
-  <a href="https://mojodocs.in"><img src="https://img.shields.io/badge/Live-mojodocs.in-6366f1?style=for-the-badge&logo=vercel" alt="Live Site"></a>
+  <a href="https://mojodocs.in"><img src="https://img.shields.io/badge/Secure-mojodocs.in-6366f1?style=for-the-badge&logo=vercel" alt="mojodocs.in Live"></a>
   <a href="https://github.com/maisachinsharmahu/MojoDocs/stargazers"><img src="https://img.shields.io/github/stars/maisachinsharmahu/MojoDocs?style=for-the-badge&color=yellow" alt="Stars"></a>
   <a href="#-licensing--ip"><img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License"></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Framework-Next.js%2015-black?style=for-the-badge&logo=next.js" alt="Next.js"></a>
@@ -32,7 +32,7 @@
 
 ## 📖 TABLE OF CONTENTS
 
-- [📑 About MojoDocs](#-about-mojodocs)
+- [📑 About Mojo Docs (mojodocs.in)](#-about-mojo-docs-mojodocsin)
 - [🛠️ Tool Inventory (Full Catalog)](#️-tool-inventory-full-catalog)
 - [❓ The "Why": The Privacy Crisis](#-the-why-the-privacy-crisis)
 - [🛠️ How It Works: Technical Deep-Dive](#-how-it-works-technical-deep-dive)
@@ -40,16 +40,16 @@
 - [🚀 Tool Inventory & Ecosystem](#-tool-inventory--ecosystem)
 - [📊 Performance Benchmarks](#-performance-benchmarks)
 - [🛡️ Security & Zero-Trust Architecture](#-security--zero-trust-architecture)
-- [📜 Detailed Changelog](#-detailed-changelog)
+- [📜 Detailed Changelog (Live)](#-detailed-changelog-live)
 - [📅 Roadmap 2026](#-roadmap-2026)
 - [⚖️ Licensing & Intellectual Property](#-licensing--intellectual-property)
 - [🛑 Public Teaser Restricted Access](#-public-teaser-restricted-access)
 
 ---
 
-## 📑 ABOUT MOJODOCS
+## 📑 ABOUT MOJO DOCS (mojodocs.in)
 
-**MojoDocs** is not just a tool; it is a movement toward **Digital Sovereignty**. 
+**Mojo Docs** (available at **mojodocs.in**) is not just a tool; it is a movement toward **Digital Sovereignty**. 
 
 In an era where every "Free PDF Converter" or "Image Compressor" is a data-collection honeypot, MojoDocs provides a high-performance alternative where your files never leave your system. By leveraging **WebAssembly (WASM)** and **TensorFlow.js**, we have ported native C++, Rust, and Python logic directly into the browser.
 
@@ -148,9 +148,9 @@ MojoDocs is built to be compliant with the strictest CSPs:
 
 ---
 
-## 📜 DETAILED CHANGELOG
+## 📜 DETAILED CHANGELOG (LIVE)
 
-For a complete history of changes, see [CHANGELOG.md](CHANGELOG.md).
+For a complete history of updates and developer insights, visit our **[Live Engineering Blog & Changelog](https://mojodocs.in/blog/)**.
 
 ### [v1.5.0] - 2026-03-30
 - **Security**: Reinforced logic with iron-clad JavaScript obfuscation.
@@ -187,16 +187,19 @@ To protect our competitive advantage and R&D investment, the following have been
 - Advanced binary-search compression algorithms.
 - Core forensic scoring mathematics.
 
-### 👉 [VISIT MOJODOCS.IN](https://mojodocs.in)
+### 👉 [ACCESS MOJO DOCS AT MOJODOCS.IN](https://mojodocs.in)
 
 ---
 
 <p align="center">
-  <b>Designed with Precision. Engineered for Privacy. Powered by Mojo.</b>
+  <b>Designed with Precision. Engineered for Privacy. Powered by Mojo Docs.</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/maisachinsharmahu">Created by Sachin Sharma</a> | <a href="https://sachinsharma.dev">Personal Portfolio</a>
+  <a href="https://sachinsharma.dev">Created by Sachin Sharma</a> | <a href="https://sachinsharma.dev">Official Personal Portfolio</a>
+</p>
+<p align="center">
+  <a href="https://mojodocs.in">Explore the Mojo Docs Suite</a>
 </p>
 
 <p align="center">
