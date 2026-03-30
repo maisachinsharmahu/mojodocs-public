@@ -10,16 +10,30 @@
 
 <p align="center">
   <a href="https://mojodocs.in"><img src="https://img.shields.io/badge/Live-mojodocs.in-6366f1?style=for-the-badge&logo=vercel" alt="Live Site"></a>
-  <a href="https://github.com/maisachinsharmahu/mojodocs-public/stargazers"><img src="https://img.shields.io/github/stars/maisachinsharmahu/mojodocs-public?style=for-the-badge&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/maisachinsharmahu/MojoDocs/stargazers"><img src="https://img.shields.io/github/stars/maisachinsharmahu/MojoDocs?style=for-the-badge&color=yellow" alt="Stars"></a>
   <a href="#-licensing--ip"><img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License"></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Framework-Next.js%2015-black?style=for-the-badge&logo=next.js" alt="Next.js"></a>
 </p>
 
 ---
 
+## 🏛️ THE MOJODOCS DIRECTORY
+
+| Category | Description | Live Access |
+| :--- | :--- | :--- |
+| 🎹 **Musical Instruments** | Studio-grade virtual instruments (WASM) | [Play Now](https://mojodocs.in/audio/web-harmonium/) |
+| 📑 **PDF Suite** | High-speed local PDF manipulation | [Open Tools](https://mojodocs.in/pdf/) |
+| 🖼️ **Image Lab** | AI Background removal & optimization | [Open Tools](https://mojodocs.in/image/) |
+| 🔍 **Forensic Lab** | Deepfake detection & ELA analysis | [Check Now](https://mojodocs.in/image/deepfake-detector/) |
+| 👨‍💻 **Developer Hub** | JSON, Redis, SQLite & Regex tools | [Explore](https://mojodocs.in/dev/) |
+| 📽️ **Creative Studio** | Video compression & screen recording | [Explore](https://mojodocs.in/video/) |
+
+---
+
 ## 📖 TABLE OF CONTENTS
 
 - [📑 About MojoDocs](#-about-mojodocs)
+- [🛠️ Tool Inventory (Full Catalog)](#️-tool-inventory-full-catalog)
 - [❓ The "Why": The Privacy Crisis](#-the-why-the-privacy-crisis)
 - [🛠️ How It Works: Technical Deep-Dive](#-how-it-works-technical-deep-dive)
 - [🔬 The forensic Engine: GAN Detection](#-the-forensic-engine-gan-detection)
@@ -47,19 +61,37 @@ In an era where every "Free PDF Converter" or "Image Compressor" is a data-colle
 
 ---
 
-## ❓ THE "WHY": THE PRIVACY CRISIS
+## 🛠️ TOOL INVENTORY (FULL CATALOG)
 
-### The Hidden Cost of "Free" Tools
-When you upload a sensitive invoice or an ID card to a traditional online PDF tool:
-- Your file is stored in a temporary cloud bucket.
-- It is often analyzed by OCR for metadata harvesting.
-- It is vulnerable to cloud infrastructure breaches.
+MojoDocs logic is split into category clusters. Every tool listed below runs **100% Client-Side**.
 
-### The MojoDocs Solution
-MojoDocs utilizes a **"Zero-Server Processing"** model. 
-- **Latency**: Reduced by 90% (Zero upload/download time).
-- **Security**: 100% (Files remain in browser memory).
-- **Control**: You own the execution environment.
+### 🎹 VIRTUAL INSTRUMENTS (PRO SERIES)
+High-fidelity, zero-latency musical performance tools.
+- [**Web Harmonium**](https://mojodocs.in/audio/web-harmonium/) - Studio-grade sargam engine.
+- [**Web Piano**](https://mojodocs.in/audio/web-piano/) - Multi-octave grand piano.
+- [**Web Guitar**](https://mojodocs.in/audio/web-guitar/) - Acoustic & Electric profiles.
+- [**Web Violin**](https://mojodocs.in/audio/web-violin/) - Smooth orchestral synthesis.
+- [**Web Organ**](https://mojodocs.in/audio/web-organ/) - Classic pipe organ engine.
+
+### 📑 DOCUMENT & PDF POWERHOUSE
+- [**PDF Compressor PRO**](https://mojodocs.in/pdf/compressor/) - Surgical target-size compression.
+- [**PDF Merger**](https://mojodocs.in/pdf/merger/) - Multi-file structural organizing.
+- [**Word to PDF**](https://mojodocs.in/document/word-to-pdf/) - Desktop-standard conversion.
+
+### 🖼️ IMAGE & FORENSIC LAB
+- [**Deepfake Detector**](https://mojodocs.in/image/deepfake-detector/) - GAN & Ai-generation auditing.
+- [**BG Remover**](https://mojodocs.in/image/bg-remover/) - Local neural foreground extraction.
+- [**Image Enhancer**](https://mojodocs.in/image/enhancer/) - Multi-pass local upscaling.
+- [**Passport Maker**](https://mojodocs.in/image/passport-maker/) - Precision DPI grid generation.
+- [**Image to Sketch**](https://mojodocs.in/image/sketch/) - Artistic line-art conversion.
+- [**Bulk Converter**](https://mojodocs.in/image/converter/) - Parallel WebP/JPEG/PNG processing.
+
+### 👨‍💻 DEVELOPER & NETWORK TOOLS
+- [**Redis Visual CLI**](https://mojodocs.in/dev/redis-cli/) - GUI for remote/local Redis.
+- [**SQLite Viewer**](https://mojodocs.in/dev/sqlite-viewer/) - Instant DB inspection.
+- [**JSON Formatter**](https://mojodocs.in/dev/json-formatter/) - Structural data auditing.
+- [**Local Share (P2P)**](https://mojodocs.in/network/local-share/) - Encrypted file transfer within LAN.
+- [**Markdown Viewer**](https://mojodocs.in/dev/md-viewer/) - Real-time responsive preview.
 
 ---
 
@@ -88,34 +120,6 @@ graph TD
 
 ### 3. Forensic Bitstream Analysis
 For our Deepfake Detector, we analyze the **noise floor** of an image. Authentic sensors produce stochastic noise, while AI-generated models (GANs/Diffusion) leave deterministic mathematical fingerprints.
-
----
-
-## 🔬 THE FORENSIC ENGINE: GAN DETECTION
-
-The MojoDocs Forensic Engine is a 4-Stage audit path:
-
-1. **ELA (Error Level Analysis)**: Identifies regions with different compression levels, suggesting digital tampering.
-2. **Noise Analysis**: Extracts high-frequency components to detect GAN-generated patterns.
-3. **Skin Texture Consistency**: Neural networks analyze facial regions for "too-smooth" artifacts typical in AI generation.
-4. **Metadata Fingerprinting**: Advanced EXIF audit checking for software-specific injection signatures.
-
----
-
-## 🚀 TOOL INVENTORY & ECOSYSTEM
-
-### 📑 PDF SUITE
-- **Compressor PRO**: Surgical target-size compression with ultra-high fidelity.
-- **Merger & Organizer**: Multi-file merging with page-level rotation and reordering.
-- **Secure Signer**: RSA-based digital signatures handled entirely in local memory.
-
-### 🖼️ IMAGE SUITE
-- **Background Remover**: Next-gen foreground extraction using local neural models.
-- **Passport Maker**: Instant DPI-aligned grid generation for professional printing.
-- **Bulk Converter**: Parallel processing of 100+ images into WebP/JPEG/PNG.
-
-### 🔍 FORENSIC SUITE
-- **Deepfake Detector**: The ultimate tool for verifying image authenticity in the AI age.
 
 ---
 
@@ -148,31 +152,11 @@ MojoDocs is built to be compliant with the strictest CSPs:
 
 For a complete history of changes, see [CHANGELOG.md](CHANGELOG.md).
 
-### [v1.4.2] - 2026-02-08
-- **Feature**: Integrated advanced JavaScript obfuscation for binary protection.
-- **Update**: Enhanced Forensic Engine scoring logic for Stable Diffusion v3 models.
-- **UI**: New "Glassmorphism" layout for the Tool Workspace.
-
-### [v1.3.5] - 2026-01-28
-- **Optimization**: Reduced WASM payload size by 40% via tree-shaking binary exports.
-- **Fixed**: Canvas memory overflow on low-RAM mobile devices.
-
----
-
-## 📅 ROADMAP 2026
-
-### Q1: The Security Lockdown (COMPLETE)
-✅ Binary Hardening
-✅ Forensic v2
-✅ Proprietary Licensing Model
-
-### Q2: The Creative Wave
-- 🏗️ **MojoVideo**: Browser-based timeline video editing (No server).
-- 🏗️ **SVG Orchestrator**: High-speed vector manipulation.
-
-### Q3: Collaboration & Workspace
-- 🚀 **Local Cloud**: Sync your tools across devices without a third-party server (P2P).
-- 🚀 **API Bridge**: Allow other apps to utilize the MojoDocs local engine.
+### [v1.5.0] - 2026-03-30
+- **Security**: Reinforced logic with iron-clad JavaScript obfuscation.
+- **Tools**: Launched "Web Harmonium" Pro Edition with multi-reed support.
+- **Optimization**: Resolved production chunk loading latency by 30%.
+- **Docs**: Comprehensive README overhaul for public transparency.
 
 ---
 
@@ -203,8 +187,6 @@ To protect our competitive advantage and R&D investment, the following have been
 - Advanced binary-search compression algorithms.
 - Core forensic scoring mathematics.
 
-The code here serves as a **Functional Architecture Blueprint**. For the full experience, use the production-ready tools.
-
 ### 👉 [VISIT MOJODOCS.IN](https://mojodocs.in)
 
 ---
@@ -214,7 +196,7 @@ The code here serves as a **Functional Architecture Blueprint**. For the full ex
 </p>
 
 <p align="center">
-  <a href="https://github.com/maisachinsharmahu">Created by Sachin Sharma</a>
+  <a href="https://github.com/maisachinsharmahu">Created by Sachin Sharma</a> | <a href="https://sachinsharma.dev">Personal Portfolio</a>
 </p>
 
 <p align="center">
